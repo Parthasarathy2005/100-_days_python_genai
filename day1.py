@@ -1,3 +1,4 @@
+print("5/2/26")
 print("hello,this is my day1 for python coding challenge for gen ai")
 print("Parthasarathy P")#name
 print("I am learning python programming language")#task
